@@ -1,14 +1,20 @@
 
 
 *** This repository is to created for functions and its programs of ***
+ 
  1.Anonymous function
+ 
  2.Arrow function
+ 
  3.IIFE function 
+ 
 
 
 *** It consist of following programs***
+
  
  **Do the below programs in anonymous function & IIFE**
+ 
 
   1a.Print odd numbers in an array
   
@@ -25,9 +31,11 @@
   1g.Remove duplicates from an array
   
   1h.Rotate an array by k times
+  
 
 
 **Do the below programs in arrow functions**
+
 
   2a.Print odd numbers in an array
   
