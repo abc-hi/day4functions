@@ -2,7 +2,7 @@
 
 *** This repository is to created for functions and its programs of ***
  1.Anonymous function
- 2.Arrow fuction
+ 2.Arrow function
  3.IIFE function 
 
 
